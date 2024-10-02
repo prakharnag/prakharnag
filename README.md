@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prakhar Nag</h1>
 <h3 align="center">Software Engineer</h3>
 
+- 🌱 I’m currently exploring **GenAI, LLM models**
+
 - 💼 I’m looking for **full time software engineering roles**
 
 - 📫 How to reach me **pnag@hawk.iit.edu**
